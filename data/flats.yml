@@ -1,0 +1,21 @@
+ddcoelho:
+  name: "Daniel's home"
+  description: "It's a masion"
+  city_name: "Seixal, Portugal"
+  bg_img: "danielshouse.jpg"
+  wifi: true
+  rating: 5
+emawutor:
+  name: "Emmanuel's home"
+  description: "Awesome US of A"
+  city_name: "Ohio, USA"
+  bg_img: "emmanuelshouse.jpg"
+  wifi: true
+  rating: 5
+alinamichelle:
+  name: "Alina's Island"
+  description: "Full tropical island"
+  city_name: "Cayos Arcas, Mexico"
+  bg_img: "alinashouse.jpg"
+  wifi: true
+  rating: 5
